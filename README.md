@@ -3,7 +3,7 @@
 Build with Xcode or compile with gcc -objc
 
 Execute it like:
-./IsolationFinder <filepath>
+./IsolationFinder filepath
 
 The file must be a text file with a feature on each line like:
 
